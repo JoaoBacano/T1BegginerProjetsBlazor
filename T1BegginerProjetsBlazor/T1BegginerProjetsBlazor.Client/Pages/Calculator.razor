@@ -1,0 +1,184 @@
+﻿@page "/calculator"
+@using System.Globalization
+@rendermode InteractiveAuto
+
+<PageTitle>Calculator</PageTitle>
+
+<h1>Calculator</h1>
+
+
+<div class="calculadora">
+    <input type="text" @bind="Display" readonly />
+</div>
+
+<div class="row">
+    <button @onclick="@Clear">C</button>
+    <button @onclick="@(() => AddDigit(7))">7</button>
+    <button @onclick="@(() => AddDigit(8))">8</button>
+    <button @onclick="@(() => AddDigit(9))">9</button>
+    <button @onclick="@(() => AddOperator("/"))">/</button>
+</div>
+
+<div class="row">
+    <button @onclick="@(() => AddDigit(4))">4</button>
+    <button @onclick="@(() => AddDigit(5))">5</button>
+    <button @onclick="@(() => AddDigit(6))">6</button>
+    <button @onclick="@(() => AddOperator("*"))">*</button>
+</div>
+
+<div class="row">
+    <button @onclick="@(() => AddDigit(1))">1</button>
+    <button @onclick="@(() => AddDigit(2))">2</button>
+    <button @onclick="@(() => AddDigit(3))">3</button>
+    <button @onclick="@(() => AddOperator("-"))">-</button>
+</div>
+
+<div>
+    <button @onclick="@(() => AddDigit(0))">0</button>
+    <button @onclick="@Point">.</button>
+    <button @onclick="@Conclusion">=</button>
+    <button @onclick="@(() => AddOperator("+"))">+</button>
+</div>
+
+@code {
+    private string Display { get; set; } = "0";
+    private string CurrentValue { get; set; } = "0";
+    private string Operator { get; set; } = "";
+    private string PreviousValue { get; set; } = "0";
+    private float Resultado { get; set; } = 0;
+
+
+    private void AddDigit(int digit)
+    {
+        if (CurrentValue == "0" && Display == "0")
+        {
+            CurrentValue = digit.ToString();
+            Display = CurrentValue;
+        }
+        else if(PreviousValue != "0" && Operator != "")
+        {
+
+            if(CurrentValue == "0")
+            {
+                CurrentValue = digit.ToString();
+            }
+            else
+            {
+                CurrentValue += digit.ToString();
+            }
+
+            Display = PreviousValue + Operator + CurrentValue;
+        }
+        else
+        {
+
+            CurrentValue += digit.ToString();
+            Display = CurrentValue;
+        }
+
+
+
+    }
+
+    private void AddOperator(string op)
+    {
+        if(CurrentValue == "0" && PreviousValue == "0")
+        {
+            Display = "0";
+            return;
+        }
+
+        if(Operator != "")
+        {
+            Calculate();
+
+        }
+        else
+        {
+            PreviousValue = CurrentValue;
+
+        }
+
+
+        Operator = op;
+        Display = PreviousValue + Operator;
+        CurrentValue = "0";
+    }
+
+    private void Calculate()
+    {
+        if(Operator == "" && CurrentValue == "0")
+        {
+            return;
+        }
+        switch(Operator)
+        {
+            case "+":
+                Resultado = float.Parse(PreviousValue, CultureInfo.InvariantCulture.NumberFormat) + float.Parse(CurrentValue,CultureInfo.InvariantCulture.NumberFormat);
+                break;
+            case "-":
+                Resultado = float.Parse(PreviousValue, CultureInfo.InvariantCulture.NumberFormat) - float.Parse(CurrentValue, CultureInfo.InvariantCulture.NumberFormat);
+                break;
+            case "*":
+                Resultado = float.Parse(PreviousValue, CultureInfo.InvariantCulture.NumberFormat) * float.Parse(CurrentValue, CultureInfo.InvariantCulture.NumberFormat);
+                break;
+            case "/":
+                if(CurrentValue != "0")
+                {
+                    Resultado = float.Parse(PreviousValue, CultureInfo.InvariantCulture.NumberFormat) / float.Parse(CurrentValue, CultureInfo.InvariantCulture.NumberFormat);
+                }else{
+                    Display = "Error";
+                    return;
+                }
+                break;
+        }
+
+        Display = Resultado.ToString();
+        PreviousValue = Resultado.ToString();
+        Operator = "";
+        CurrentValue = "0";
+    }
+
+    private void Clear()
+    {
+        CurrentValue = "0";
+        PreviousValue = "0";
+        Resultado = 0;
+        Display = "0";
+        Operator = "";
+    }
+
+    private void Conclusion()
+    {
+        if(Operator == "" || CurrentValue == "0")
+        {
+            return;
+        }
+        Calculate();
+        CurrentValue = "0";
+        PreviousValue = "0";
+        Resultado = 0;
+        
+    }
+
+    private void Point()
+    {
+        if (CurrentValue.Contains("."))
+        {
+            return;
+        }
+
+        if (CurrentValue == "")
+        {
+            CurrentValue += "0.";
+        }
+        else
+        {
+            CurrentValue += ".";
+        }
+
+        Display = CurrentValue;
+        
+    }
+
+}

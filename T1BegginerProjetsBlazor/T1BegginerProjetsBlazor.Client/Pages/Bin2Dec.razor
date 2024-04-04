@@ -1,0 +1,50 @@
+﻿@page "/bin2dec"
+@rendermode InteractiveAuto
+
+<PageTitle>Bin2Dec</PageTitle>
+
+<h1>Binary to Decimal Converter</h1>
+
+<div class="form-group">
+    <label for="binaryInput">Enter a binary number:</label>
+    <input id="binaryInput" class="form-control" @bind="binaryNumber" />
+</div>
+
+<button class="btn btn-primary" @onclick="ConvertBinaryToDecimal">Convert</button>
+
+@if (decimalNumber != null)
+{
+    <div class="result">
+        <p>Decimal equivalent: @decimalNumber</p>
+    </div>
+}
+
+@code {
+    private string binaryNumber;
+    private int? decimalNumber;
+
+    private void ConvertBinaryToDecimal()
+    {
+        if (!string.IsNullOrWhiteSpace(binaryNumber) && IsBinary(binaryNumber))
+        {
+            decimalNumber = Convert.ToInt32(binaryNumber, 2);
+        }
+        else
+        {
+            // Reset decimalNumber if input is invalid
+            decimalNumber = null;
+        }
+    }
+
+    private bool IsBinary(string input)
+    {
+        foreach (char c in input)
+        {
+            if (c != '0' && c != '1')
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+}

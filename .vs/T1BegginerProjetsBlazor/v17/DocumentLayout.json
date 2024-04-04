@@ -1,7 +1,60 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\pages\\bin2dec.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\pages\\bin2dec.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3211BB85-D131-4CD2-A0F2-51A3B200995F}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\T1BegginerProjetsBlazor.Client.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor.client\\wwwroot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\wwwroot\\bootstrap\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|c:\\users\\jmszf\\onedrive\\documentos\\blazorapps\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9F7E3A47-5B53-4155-B26F-C9557748AAD5}|T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.csproj|solutionrelative:t1begginerprojetsblazor\\t1begginerprojetsblazor\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +62,173 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bin2Dec.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Bin2Dec.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Bin2Dec.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Bin2Dec.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Bin2Dec.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T09:41:42.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\wwwroot\\appsettings.json",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\wwwroot\\appsettings.json",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\wwwroot\\appsettings.json",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\wwwroot\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T09:31:32.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T12:34:55.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-03T12:33:31.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T15:39:12.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\app.css",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\app.css",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\app.css",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-02T15:39:06.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwCMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:38:23.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:38:20.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:38:19.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Routes.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:38:14.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\App.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\App.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:38:09.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:37:29.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.razor",
+              "DocumentMoniker": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Calculator.razor",
+              "RelativeDocumentMoniker": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Calculator.razor",
+              "ToolTip": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Calculator.razor",
+              "RelativeToolTip": "T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor.Client\\Pages\\Calculator.razor",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-02T15:37:23.517Z",
+              "EditorCaption": ""
             }
           ]
         }

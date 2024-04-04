@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\T1BegginerProjetsBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\T1BegginerProjetsBlazor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\jmszf\\OneDrive\\Documentos\\BlazorApps\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\T1BegginerProjetsBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.T1BegginerProjetsBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.T1BegginerProjetsBlazor.props",
+      "PackagePath": "build\\T1BegginerProjetsBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.T1BegginerProjetsBlazor.props",
+      "PackagePath": "buildMultiTargeting\\T1BegginerProjetsBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.T1BegginerProjetsBlazor.props",
+      "PackagePath": "buildTransitive\\T1BegginerProjetsBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
